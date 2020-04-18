@@ -9,5 +9,6 @@ Dependencies:
 1. AT&T Dataset. Link to dataset: https://www.kaggle.com/kasikrit/att-database-of-faces
 
 The AT&T Dataset contains 40 folders. For the given code, all the 40 folders are uploaded onto the drive and the drive is then mounted. The images are read from the folders that are on the Drive.
+Download the .ipynb file and directly open in your notebook.
 
 
