@@ -7,6 +7,8 @@ In case of Face Recognition , the classes are the different people. Two images o
 Dependencies:
 
 1. AT&T Dataset. Link to dataset: https://www.kaggle.com/kasikrit/att-database-of-faces
+2. Python3
+3. Tenserflow version 2.2.0-rc3
 
 The AT&T Dataset contains 40 folders. For the given code, all the 40 folders are uploaded onto the drive and the drive is then mounted. The images are read from the folders that are on the Drive.
 Download the .ipynb file and directly open in your notebook.
