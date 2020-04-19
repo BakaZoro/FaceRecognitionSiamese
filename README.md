@@ -10,7 +10,7 @@ Dependencies:
 2. Python3
 3. Tenserflow version 2.2.0-rc3
 
-The AT&T Dataset consists of 40 classes i.e 40 people (each a folder in the dataset). Each class having 10 images eaches. Therefore all those images have been used for trainign and testing the Face Recognition Model, and thus this is an example of Few Shot Learning.
+The AT&T Dataset consists of 40 classes i.e 40 people (each a folder in the dataset). Each class having 10 images each. Therefore all those images have been used for trainign and testing the Face Recognition Model, and thus this is an example of Few Shot Learning.
 
 For the given code, all the 40 folders are uploaded onto the drive and the drive is then mounted. The images are read from the folders that are on the Drive.
 Download the .ipynb file and directly open in your notebook.
